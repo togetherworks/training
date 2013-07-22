@@ -1,4 +1,4 @@
-package com.togetherworks.demo;
+package com.togetherworks.gitdemo;
 
 public class Test1 {
 
