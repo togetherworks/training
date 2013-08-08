@@ -1,0 +1,2 @@
+MVC
+	- Observer pattern
